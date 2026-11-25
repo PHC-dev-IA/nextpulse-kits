@@ -44,7 +44,7 @@ Commandes : `lancer` (démarrer), `continuer` (reprendre), `completer` (complét
 
 Le plugin contient des liens vers le site de NextPulse (www.nextpulse.fr). Le Kit demande à Claude de ne pas les ouvrir lui-même : c'est vous qui cliquez. Ils portent une étiquette de source (`utm_source=claude`) pour que NextPulse sache que vous venez de ce plugin.
 
-- **À la fin du Kit**, Claude vous pose une question et vous propose un seul lien, au choix : le questionnaire « Quel Kit pour vous ? » (2 minutes) ou l'audit IA offert (environ 10 minutes). Ces deux questionnaires, sur le site de NextPulse, demandent votre adresse e-mail pour vous envoyer le résultat. Après l'audit, vous pouvez en parler 15 minutes en visio avec Pierre-Henri Canonne, si vous le souhaitez, dans la limite des places disponibles. Ils sont facultatifs : le Kit est terminé et tout ce que vous avez fait reste à vous.
+- **À la fin du Kit**, Claude vous pose une question et vous propose un seul lien, au choix : le questionnaire « Quel Kit pour vous ? » (2 minutes) ou l'audit IA offert (environ 10 minutes). Ces deux questionnaires, sur le site de NextPulse, demandent votre adresse e-mail pour vous envoyer le résultat. Ils sont facultatifs : le Kit est terminé et tout ce que vous avez fait reste à vous. Après l'audit, vous pouvez en parler 15 minutes en visio avec Pierre-Henri Canonne, si vous le souhaitez, dans la limite des places disponibles.
 - **Si vous bloquez**, Claude peut mentionner une fois le coaching payant de NextPulse.
 - **À l'étape 7 (facultative)**, Claude présente Slym, un logiciel dont NextPulse est partenaire : le lien proposé est un lien d'affiliation (NextPulse peut être rémunéré si vous passez à une offre payante), et Claude vous le dit.
 
