@@ -1,0 +1,17 @@
+{
+  "name": "nextpulse-kits",
+  "owner": {
+    "name": "NextPulse (Pierre-Henri Canonne)",
+    "email": "phc@nextpulse.fr"
+  },
+  "metadata": {
+    "description": "Les Kits IA NextPulse pour Claude. Le Kit Starter est offert."
+  },
+  "plugins": [
+    {
+      "name": "nextpulse-starter",
+      "source": "./plugins/nextpulse-starter",
+      "description": "Le Kit IA Starter de NextPulse, offert : votre base IA prête, pas à pas, en français."
+    }
+  ]
+}
