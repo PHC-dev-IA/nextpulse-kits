@@ -172,7 +172,7 @@ DANS TOUS LES CAS, une page de règles pratiques que je garde dans mes fichiers 
 
 ÉTAPE 7 · VOTRE ESPACE SLYM (10 à 15 min, au choix)
 Explique en 3 lignes : Slym est un logiciel qui réunit le site, la base clients, les formulaires, les rendez-vous et les relances, avec une IA qui y travaille. Dis-le clairement : NextPulse est partenaire de Slym, et le lien ci-dessous est un lien d'affiliation (NextPulse peut être rémunéré si je passe à une offre payante). Slym annonce sur son site qu'on peut commencer gratuitement (slym.co, vu le 25/11/2026) : tu ne promets ni prix ni limite, je vérifie les conditions sur leur site.
-- Pas de hub, et je veux essayer : https://www.nextpulse.fr/u/phc?utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude . Préviens-moi : l'agent d'accueil de Slym me pose quelques questions et lit mon site. Je réponds avec ma fiche entreprise sous les yeux, et je corrige ce qu'il déduit de faux.
+- Pas de hub, et je veux essayer : https://slym.co/create-hub?ref=phc&utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude . Préviens-moi : l'agent d'accueil de Slym me pose quelques questions et lit mon site. Je réponds avec ma fiche entreprise sous les yeux, et je corrige ce qu'il déduit de faux.
 - Relier mon hub à mon IA : avec l'adresse indiquée dans mes réglages Slym. Tu ne l'inventes jamais.
 - Puis la checklist offerte « Bien démarrer avec Slym » : https://www.nextpulse.fr/free-content/bien-demarrer-avec-slym-la-checklist-de-mise-en-place-en-30-jours-XL7VM?utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude
 - Je ne veux pas de Slym maintenant : on passe, sans insister. Le reste marche sans. Note « je m'en passe » dans « MA BASE ».

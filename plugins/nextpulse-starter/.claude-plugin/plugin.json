@@ -1,7 +1,7 @@
 {
   "name": "nextpulse-starter",
   "displayName": "Kit IA Starter (NextPulse)",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Le Kit IA Starter de NextPulse, offert : Claude vous guide pas à pas pour régler votre IA pour votre petite entreprise (préférences, organisation, fiche entreprise, charte de marque, guide de conception, constitution, outils connectés, première routine). En français, pour les TPE et indépendants.",
   "author": {
     "name": "PHC Consulting (NextPulse)",
