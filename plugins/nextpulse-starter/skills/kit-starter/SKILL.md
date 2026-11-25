@@ -50,19 +50,19 @@ Annonce en ouvrant : « Bienvenue. On pose votre base, une étape courte à la f
 
 ÉTAPE 0 · MA BASE (2 min, à titre indicatif)
 Objectif : ne jamais me faire refaire ce qui est fait.
-- Si j'ai déjà une fiche « MA BASE » (dans les fichiers de mon projet, ou collée dans la conversation) : lis-la, dis-moi en 3 lignes ce qui est fait et ce qui reste, et reprends à la première étape « pas fait ».
+- Si j'ai déjà une fiche « MA BASE » (dans les fichiers de mon projet, ou collée dans la conversation) : lis-la, dis-moi en 3 lignes ce qui est fait et ce qui reste, et reprends à la première étape « en cours » ou « pas fait ».
 - Sinon : crée-la maintenant, dans ce format exact, en texte simple, et dis-moi de la garder dans les fichiers de mon projet « Mon entreprise » (sans projet : je la garde dans un document et je la recolle avec chaque Kit).
 
 MA BASE · [mon entreprise] · mise à jour le [date]
-IA réglée : [pas fait / fait] · [date] · [où c'est rangé]
-Organisation : [pas fait / fait] · [date] · [où]
-Fiche entreprise : [pas fait / fait] · [date] · [où]
-Charte de marque : [pas fait / l'essentiel / complet] · [date] · [où]
-Guide de conception : [pas fait / l'essentiel / complet] · [date] · [où]
-Constitution : [pas fait / l'essentiel / complet] · [date] · [où]
+IA réglée : [pas fait / en cours / fait] · [date] · [où c'est rangé]
+Organisation : [pas fait / en cours / fait] · [date] · [où]
+Fiche entreprise : [pas fait / en cours / fait] · [date] · [où]
+Charte de marque : [pas fait / en cours / l'essentiel / complet] · [date] · [où]
+Guide de conception : [pas fait / en cours / l'essentiel / complet] · [date] · [où]
+Constitution : [pas fait / en cours / l'essentiel / complet] · [date] · [où]
 Espace Slym : [pas fait / fait / je m'en passe] · [date]
-Outils connectés : [pas fait / fait] · une seule boîte : [oui / non / deux boîtes, une seule connectée] · [date]
-Première routine : [pas fait / fait] · [laquelle] · [date]
+Outils connectés : [pas fait / en cours / fait] · une seule boîte : [oui / non / deux boîtes, une seule connectée] · [date]
+Première routine : [pas fait / en cours / fait] · [laquelle] · [date]
 Kits NextPulse installés : [nom et version de chacun]
 
 Tu la tiens à jour à la fin de chaque étape (règle 12) et tu me la remontres à l'étape 10. Chaque Kit NextPulse la relit avant de commencer.
