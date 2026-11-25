@@ -1,14 +1,23 @@
 {
   "name": "nextpulse-starter",
   "displayName": "Kit IA Starter (NextPulse)",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Le Kit IA Starter de NextPulse, offert : Claude vous guide pas à pas pour régler votre IA pour votre petite entreprise (préférences, organisation, fiche entreprise, charte de marque, guide de conception, constitution, outils connectés, première routine). En français, pour les TPE et indépendants.",
   "author": {
-    "name": "NextPulse (Pierre-Henri Canonne)",
+    "name": "PHC Consulting (NextPulse)",
     "email": "phc@nextpulse.fr",
     "url": "https://www.nextpulse.fr"
   },
   "homepage": "https://www.nextpulse.fr/starter-offert",
-  "license": "CC-BY-NC-ND-4.0",
-  "keywords": ["tpe", "pme", "francais", "entreprise", "charte", "constitution", "organisation", "nextpulse"]
+  "license": "LicenseRef-NextPulse-Kit",
+  "keywords": [
+    "tpe",
+    "pme",
+    "francais",
+    "entreprise",
+    "charte",
+    "constitution",
+    "organisation",
+    "nextpulse"
+  ]
 }
