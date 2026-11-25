@@ -13,7 +13,7 @@ DEUX VITESSES, AU CHOIX : pour la charte, le guide de conception et la constitut
 LE TEMPS (à titre indicatif) : chaque étape dure de 3 à 20 minutes ; sa durée est écrite à côté d'elle. Vous avancez en plusieurs fois, vous vous arrêtez quand vous voulez, vous sautez ce qui est déjà fait.
 LES ÉTAPES : 1. Votre IA réglée · 2. Votre organisation · 3. Votre fiche entreprise · 4. Votre charte de marque · 5. Votre guide de conception · 6. Votre constitution · 7. Votre espace Slym (au choix) · 8. Vos outils connectés, une seule boîte · 9. Votre première routine · 10. Bilan et étape suivante.
 LES PHRASES : « Lance le Starter » · « Complète ma charte » · « Complète mon guide de conception » · « Complète ma constitution ». Pour reprendre plus tard : « On continue ».
-POUR DÉMARRER : le plugin est installé, rien à copier. Conseillé : créez dans Claude un projet « Mon entreprise » (un seul pour tous vos Kits) et ouvrez-y une conversation. Écrivez : Lance le Starter (ou tapez « / » et choisissez « nextpulse-starter »).
+POUR DÉMARRER : le plugin est installé, rien à copier. Conseillé : créez dans Claude un projet « Mon entreprise » (un seul pour tous vos Kits) et ouvrez-y une conversation. Écrivez : Lance le Starter.
 SANS PLUGIN (Claude gratuit, ChatGPT) : la version texte du même Kit est offerte sur https://www.nextpulse.fr/starter-offert?utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude
 BESOIN D'AIDE ? Dites d'abord « je bloque » à votre IA : elle a une solution de repli pour chaque étape.
 

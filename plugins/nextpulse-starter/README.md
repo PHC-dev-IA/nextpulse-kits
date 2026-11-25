@@ -21,7 +21,7 @@ Pour la charte, le guide de conception et la constitution, vous commencez par «
 ## Comment s'en servir
 
 1. Conseillé : créez dans Claude un projet « Mon entreprise » et ouvrez-y une conversation.
-2. Écrivez **Lance le Starter**, ou tapez « / » et choisissez la commande `nextpulse-starter:lancer`.
+2. Écrivez **Lance le Starter**.
 3. Répondez aux questions. Vous pouvez vous arrêter quand vous voulez et reprendre avec **On continue**.
 
 Installer dans Claude Code : `/plugin install nextpulse-starter --marketplace PHC-dev-IA/nextpulse-kits`
