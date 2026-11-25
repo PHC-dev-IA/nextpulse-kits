@@ -16,7 +16,7 @@ Vous utilisez l'IA au coup par coup et vous réexpliquez tout à chaque fois ? C
 - une première routine ;
 - votre fiche « Ma base », que les Kits NextPulse suivants relisent pour ne rien vous faire refaire.
 
-Pour la charte, le guide de conception et la constitution, vous commencez par « l'essentiel » (quelques minutes) et vous complétez plus tard avec une phrase. Chaque étape dure de 3 à 20 minutes, à titre indicatif.
+Pour la charte, le guide de conception et la constitution, vous commencez par « l'essentiel » (quelques minutes) et vous complétez plus tard avec une phrase. Chaque étape a sa durée, à titre indicatif : de 2 à 20 minutes, et jusqu'à 45 minutes pour la charte en version « complet ».
 
 ## Comment s'en servir
 
@@ -24,7 +24,7 @@ Pour la charte, le guide de conception et la constitution, vous commencez par «
 2. Écrivez **Lance le Starter**.
 3. Répondez aux questions. Vous pouvez vous arrêter quand vous voulez et reprendre avec **On continue**.
 
-Installer dans Claude Code : `/plugin install nextpulse-starter --marketplace PHC-dev-IA/nextpulse-kits`
+Installer dans Claude Code : `/plugin marketplace add PHC-dev-IA/nextpulse-kits`, puis `/plugin install nextpulse-starter@nextpulse-kits`.
 
 Commandes : `lancer` (démarrer), `continuer` (reprendre), `completer` (compléter la charte, le guide de conception ou la constitution).
 
@@ -38,16 +38,15 @@ Commandes : `lancer` (démarrer), `continuer` (reprendre), `completer` (complét
 
 - Il contient uniquement des instructions (une skill, trois commandes) : aucun script, aucun connecteur, aucun serveur.
 - Il n'envoie aucune donnée à NextPulse et n'en stocke aucune. Ce que vous écrivez reste dans votre compte Claude, comme toute conversation.
-- Rien n'est envoyé, publié, acheté, connecté ou supprimé sans votre « oui ».
-- Claude ne vous demande jamais de mot de passe, de coordonnées bancaires, de donnée de santé ni de nom de client.
+- Le Kit demande à Claude de ne rien envoyer, publier, acheter, connecter ni supprimer sans votre « oui », et de ne jamais vous demander de mot de passe, de coordonnées bancaires, de donnée de santé ni de nom de client. Ce sont des consignes données à Claude : relisez toujours ce qu'il prépare avant de valider.
 
 ## Liens vers le site de NextPulse
 
-Le plugin contient des liens vers le site de NextPulse (www.nextpulse.fr). Claude ne les ouvre jamais lui-même : c'est vous qui cliquez. Ils portent une étiquette de source (`utm_source=claude`) pour que NextPulse sache que vous venez de ce plugin.
+Le plugin contient des liens vers le site de NextPulse (www.nextpulse.fr). Le Kit demande à Claude de ne pas les ouvrir lui-même : c'est vous qui cliquez. Ils portent une étiquette de source (`utm_source=claude`) pour que NextPulse sache que vous venez de ce plugin.
 
 - **À la fin du Kit**, Claude vous pose une question et vous propose un seul lien, au choix : le questionnaire « Quel Kit pour vous ? » (2 minutes) ou l'audit IA offert (environ 10 minutes). Ces deux questionnaires, sur le site de NextPulse, demandent votre adresse e-mail pour vous envoyer le résultat. Ils sont facultatifs : le Kit est terminé et tout ce que vous avez fait reste à vous.
 - **Si vous bloquez**, Claude peut mentionner une fois le coaching payant de NextPulse.
-- **À l'étape 7 (facultative)**, Claude présente Slym, un logiciel dont NextPulse est partenaire : le lien proposé est un lien de parrainage, et Claude vous le dit.
+- **À l'étape 7 (facultative)**, Claude présente Slym, un logiciel dont NextPulse est partenaire : le lien proposé est un lien d'affiliation (NextPulse peut être rémunéré si vous passez à une offre payante), et Claude vous le dit.
 
 Politique de confidentialité de NextPulse : https://www.nextpulse.fr/page/politique-de-confidentialite
 
