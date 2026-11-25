@@ -1,0 +1,64 @@
+# Kit IA Starter · NextPulse
+
+**Votre base IA prête, pas à pas, en français. Offert.**
+
+Vous utilisez l'IA au coup par coup et vous réexpliquez tout à chaque fois ? Ce Kit règle Claude pour votre entreprise, une bonne fois, et c'est Claude qui vous guide, une étape courte à la fois. Il est écrit pour les dirigeants de TPE et de PME, les indépendants et les artisans.
+
+## Ce que vous avez à la fin
+
+- une IA qui vous connaît (vos préférences et votre mémoire réglées) ;
+- vos projets rangés, un par grand sujet ;
+- votre fiche entreprise ;
+- votre charte de marque (la voix, les couleurs, la police) ;
+- votre guide de conception (comment concevoir une page, un mail, un devis) ;
+- votre constitution (les règles écrites de votre IA : ce que vous voulez, ce que vous refusez, qui décide) ;
+- vos outils connectés avec le moindre accès, et une seule boîte mail ;
+- une première routine ;
+- votre fiche « Ma base », que les Kits NextPulse suivants relisent pour ne rien vous faire refaire.
+
+Pour la charte, le guide de conception et la constitution, vous commencez par « l'essentiel » (quelques minutes) et vous complétez plus tard avec une phrase. Chaque étape dure de 3 à 20 minutes, à titre indicatif.
+
+## Comment s'en servir
+
+1. Conseillé : créez dans Claude un projet « Mon entreprise » et ouvrez-y une conversation.
+2. Écrivez **Lance le Starter**, ou tapez « / » et choisissez la commande `nextpulse-starter:lancer`.
+3. Répondez aux questions. Vous pouvez vous arrêter quand vous voulez et reprendre avec **On continue**.
+
+Installer dans Claude Code : `/plugin install nextpulse-starter --marketplace PHC-dev-IA/nextpulse-kits`
+
+Commandes : `lancer` (démarrer), `continuer` (reprendre), `completer` (compléter la charte, le guide de conception ou la constitution).
+
+### Trois exemples de demandes
+
+- « Lance le Starter. »
+- « Complète ma charte : j'ai déjà mon logo et deux couleurs. »
+- « On continue, voici ma fiche Ma base. »
+
+## Ce que le plugin fait, et ne fait pas
+
+- Il contient uniquement des instructions (une skill, trois commandes) : aucun script, aucun connecteur, aucun serveur.
+- Il n'envoie aucune donnée à NextPulse et n'en stocke aucune. Ce que vous écrivez reste dans votre compte Claude, comme toute conversation.
+- Rien n'est envoyé, publié, acheté, connecté ou supprimé sans votre « oui ».
+- Claude ne vous demande jamais de mot de passe, de coordonnées bancaires, de donnée de santé ni de nom de client.
+
+## Liens vers le site de NextPulse
+
+Le plugin contient des liens vers le site de NextPulse (www.nextpulse.fr). Claude ne les ouvre jamais lui-même : c'est vous qui cliquez. Ils portent une étiquette de source (`utm_source=claude`) pour que NextPulse sache que vous venez de ce plugin.
+
+- **À la fin du Kit**, Claude vous pose une question et vous propose un seul lien, au choix : le questionnaire « Quel Kit pour vous ? » (2 minutes) ou l'audit IA offert (environ 10 minutes). Ces deux questionnaires, sur le site de NextPulse, demandent votre adresse e-mail pour vous envoyer le résultat. Ils sont facultatifs : le Kit est terminé et tout ce que vous avez fait reste à vous.
+- **Si vous bloquez**, Claude peut mentionner une fois le coaching payant de NextPulse.
+- **À l'étape 7 (facultative)**, Claude présente Slym, un logiciel dont NextPulse est partenaire : le lien proposé est un lien de parrainage, et Claude vous le dit.
+
+Politique de confidentialité de NextPulse : https://www.nextpulse.fr/page/politique-de-confidentialite
+
+## Sans plugin
+
+Sur Claude gratuit ou sur ChatGPT, la version texte du même Kit est offerte : https://www.nextpulse.fr/starter-offert
+
+## Contact et support
+
+NextPulse · Pierre-Henri Canonne · phc@nextpulse.fr · https://www.nextpulse.fr/page/contact
+
+## Licence
+
+Creative Commons BY-NC-ND 4.0 : vous pouvez utiliser ce Kit et le partager gratuitement en citant NextPulse, sans le modifier ni le revendre. Voir le fichier `LICENSE`.
