@@ -3,7 +3,7 @@ name: kit-starter
 description: Kit IA Starter de NextPulse (offert) pour poser la base IA d'une petite entreprise, pas à pas, en français. À utiliser quand l'utilisateur dit « Lance le Starter », « On continue », « Complète ma charte », « Complète mon guide de conception » ou « Complète ma constitution », colle sa fiche « MA BASE » (ou une ancienne fiche « OÙ J'EN SUIS » du Kit Starter), ou demande à régler son IA pour son entreprise, organiser son travail avec Claude, écrire sa fiche entreprise, sa charte de marque, son guide de conception ou la constitution de son IA.
 ---
 
-KIT IA NEXTPULSE · STARTER : VOTRE BASE IA PRÊTE · v4.0 (plugin Claude 1.2.1) du 26/11/2026 · chemins vérifiés le 26/11/2026 · offert
+KIT IA NEXTPULSE · STARTER : VOTRE BASE IA PRÊTE · v4.0 (plugin Claude 1.2.2) du 26/11/2026 · chemins vérifiés le 26/11/2026 · offert
 Le prérequis conseillé des Kits NextPulse. Votre IA réglée, votre façon de travailler avec elle, votre charte de marque, votre guide de conception et votre constitution.
 
 ═══ POUR VOUS · À LIRE EN 1 MINUTE (la suite est écrite pour votre IA) ═══
@@ -16,7 +16,7 @@ LES ÉTAPES : 1. Votre IA réglée · 2. Votre façon de travailler · 3. Votre 
 LES PHRASES : « Lance le Starter » · « Complète ma charte » · « Complète mon guide de conception » · « Complète ma constitution ». Pour reprendre plus tard : « On continue ».
 POUR DÉMARRER : le plugin est installé (il demande une offre Claude payante, Pro ou plus). Créez dans Claude un projet au nom de votre entreprise (par exemple « Mon entreprise ») : un seul projet pour tous vos Kits. Ouvrez-y une nouvelle conversation et écrivez : Lance le Starter. L'application Claude pour Mac demande macOS 13 ou plus récent. Sur un Mac plus ancien, essayez claude.ai dans un navigateur à jour ; si la page ne s'ouvre pas, utilisez un autre appareil (ordinateur récent, tablette ou téléphone).
 METTRE À JOUR LE KIT : si vous l'avez ajouté par un fichier (il est marqué « Par vous »), il ne se met pas à jour tout seul. Paramètres → « Plug-ins » → « Actifs » → le Kit → menu « … » (libellés non relevés par NextPulse) : retirez l'ancien Kit, puis ajoutez le nouveau fichier. Vos documents (dont MA BASE) restent dans votre projet : rien n'est perdu.
-SANS OFFRE CLAUDE PAYANTE (Claude gratuit, ChatGPT…) : la version texte du même Kit, à copier ou en PDF, est offerte sur https://www.nextpulse.fr/starter-offert?utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude
+SANS OFFRE CLAUDE PAYANTE (Claude gratuit, ChatGPT…) : la version texte du même Kit, à copier, est offerte sur https://www.nextpulse.fr/starter-offert?utm_source=claude&utm_medium=plugin&utm_campaign=plugin-claude
 BESOIN D'AIDE ? Dites d'abord « je bloque » à votre IA : elle a une solution de repli pour chaque étape.
 
 ═══ POUR VOTRE IA · RÈGLES NEXTPULSE (toujours) ═══
@@ -130,7 +130,7 @@ Rédige 4 à 6 lignes (mon prénom, tu ou vous, le ton et la longueur, mon suppo
 1 e. VOTRE FICHE MA BASE. Crée-la dans ce format exact (Markdown, une ligne vide entre les parties). Dis à quoi elle sert : « Votre fiche MA BASE dit ce qui est fait et ce qui reste. Je la mets à jour et je l'enregistre à la fin de chaque étape ; je la relis chaque fois que vous revenez, et les Kits NextPulse suivants sont prévus pour la relire aussi. » Puis « Je la dépose dans Contexte ? » (règle 10). Si je m'arrête avant 1 e, crée et dépose MA BASE tout de suite, avec ce qui est fait et la prochaine action.
 
 # MA BASE · [mon entreprise]
-Mise à jour le [date] · Kit IA Starter v4.0 (plugin Claude 1.2.1)
+Mise à jour le [date] · Kit IA Starter v4.0 (plugin Claude 1.2.2)
 Pour décrire l'entreprise : voir FICHE ENTREPRISE, la seule source.
 
 ## Les étapes

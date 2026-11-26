@@ -27,7 +27,7 @@ Le Kit Starter pose la base de votre IA : les instructions de votre projet et vo
 
 Créez ensuite dans Claude un projet au nom de votre entreprise (par exemple « Mon entreprise »), ouvrez-y une nouvelle conversation et écrivez : **Lance le Starter**. Pour reprendre plus tard, une phrase suffit : **On continue**.
 
-**Sans offre Claude payante (Claude gratuit, ChatGPT…)** : le même Kit se copie et se colle, ou se télécharge en PDF. Le pas-à-pas est sur [nextpulse.fr/starter-offert](https://www.nextpulse.fr/starter-offert).
+**Sans offre Claude payante (Claude gratuit, ChatGPT…)** : le même Kit se copie et se colle, avec son guide PDF. Le pas-à-pas est sur [nextpulse.fr/starter-offert](https://www.nextpulse.fr/starter-offert).
 
 ## Qui est derrière
 

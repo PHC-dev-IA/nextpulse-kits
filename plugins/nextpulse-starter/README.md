@@ -58,7 +58,7 @@ L'application Claude pour Mac demande macOS 13 ou plus récent. Sur un Mac plus 
 
 ## Sans plugin
 
-Le plugin demande une offre Claude payante (Pro ou plus). Sans elle (Claude gratuit, ChatGPT…), la version texte du même Kit, à copier ou en PDF, est offerte : https://www.nextpulse.fr/starter-offert
+Le plugin demande une offre Claude payante (Pro ou plus). Sans elle (Claude gratuit, ChatGPT…), la version texte du même Kit, à copier, est offerte, avec son guide PDF : https://www.nextpulse.fr/starter-offert
 
 ## Contact et support
 
