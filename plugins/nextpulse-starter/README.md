@@ -52,7 +52,7 @@ Politique de confidentialité de NextPulse : https://www.nextpulse.fr/page/polit
 
 ## Mettre à jour le Kit
 
-Ajouté depuis la marketplace, le Kit se met à jour avec elle. Ajouté par un fichier (marqué « Par vous » dans Claude), il ne se met pas à jour tout seul : **Paramètres > Plug-ins > Actifs > Kit IA Starter (NextPulse) > menu « … »**, supprimez l'ancien, puis ajoutez le nouveau fichier. Vos documents (dont MA BASE) restent dans votre projet : rien n'est perdu.
+Ajouté depuis la marketplace, le Kit se met en principe à jour avec elle. Ajouté par un fichier (marqué « Par vous » dans Claude), il ne se met pas à jour tout seul : **Paramètres > Plug-ins > Actifs > Kit IA Starter (NextPulse) > menu « … »** (libellés non relevés par NextPulse), retirez l'ancien Kit, puis ajoutez le nouveau fichier. Vos documents (dont MA BASE) restent dans votre projet : rien n'est perdu.
 
 L'application Claude pour Mac demande macOS 13 ou plus récent. Sur un Mac plus ancien, essayez claude.ai dans un navigateur à jour ; si la page ne s'ouvre pas, utilisez un autre appareil (ordinateur récent, tablette ou téléphone).
 

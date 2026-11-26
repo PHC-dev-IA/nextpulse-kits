@@ -8,7 +8,7 @@ Votre IA sait tout faire, sauf votre métier. Les Kits IA de NextPulse la règle
 
 ## Le Kit IA Starter, offert
 
-Le Kit Starter pose la base de votre IA : les instructions de votre projet et votre mémoire, une façon simple de travailler (un seul projet, une conversation par sujet), votre fiche entreprise, votre charte de marque, votre guide de conception et la constitution de votre IA. Claude vous guide en dix étapes courtes, à votre rythme, et vous gardez la main à chaque étape. Vous repartez avec des documents prêts, rangés dans le projet de votre entreprise, que les Kits suivants relisent.
+Le Kit Starter pose la base de votre IA : les instructions de votre projet et votre mémoire, une façon simple de travailler (un seul projet, une conversation par sujet), votre fiche entreprise, votre charte de marque, votre guide de conception et la constitution de votre IA. Claude vous guide en dix étapes courtes, à votre rythme, et vous gardez la main à chaque étape. Vous repartez avec des documents prêts, rangés dans le projet de votre entreprise, que les Kits suivants sont prévus pour relire.
 
 | Plugin | Ce qu'il fait | Prix |
 |---|---|---|
