@@ -6,25 +6,25 @@ Vous utilisez l'IA au coup par coup et vous réexpliquez tout à chaque fois ? C
 
 ## Ce que vous avez à la fin
 
-- une IA qui vous connaît (vos préférences et votre mémoire réglées) ;
-- vos projets rangés, un par grand sujet ;
+- une IA qui connaît votre entreprise (les instructions de votre projet, la mémoire et vos instructions générales réglées) ;
+- une façon simple de travailler : un seul projet pour votre entreprise, une nouvelle conversation pour chaque sujet ;
 - votre fiche entreprise ;
 - votre charte de marque (la voix, les couleurs, la police) ;
 - votre guide de conception (comment concevoir une page, un mail, un devis) ;
 - votre constitution (les règles écrites de votre IA : ce que vous voulez, ce que vous refusez, qui décide) ;
 - vos outils connectés avec le moindre accès, et une seule boîte mail ;
 - une première routine ;
-- votre fiche « Ma base », que les Kits NextPulse suivants relisent pour ne rien vous faire refaire.
+- votre fiche « Ma base », que les Kits NextPulse suivants sont prévus pour relire, pour ne rien vous faire refaire.
 
 Pour la charte, le guide de conception et la constitution, vous commencez par « l'essentiel » (quelques minutes) et vous complétez plus tard avec une phrase. Chaque étape a sa durée, à titre indicatif : de 2 à 20 minutes, et jusqu'à 45 minutes pour la charte en version « complet ».
 
 ## Comment s'en servir
 
-1. Conseillé : créez dans Claude un projet « Mon entreprise » et ouvrez-y une conversation.
+1. Créez dans Claude un projet au nom de votre entreprise (par exemple « Mon entreprise ») : un seul projet pour tous vos Kits. Ouvrez-y une nouvelle conversation.
 2. Écrivez **Lance le Starter**.
-3. Répondez aux questions. Vous pouvez vous arrêter quand vous voulez et reprendre avec **On continue**.
+3. À chaque question, Claude vous fait une proposition : vous validez, vous complétez ou vous la remplacez. Vous faites vous-même quelques gestes simples dans Claude (coller les instructions du projet, régler la mémoire), guidés pas à pas ; Claude dépose vos documents dans le projet avec votre accord quand il le peut ; sinon, il vous dit où les ajouter. Vous pouvez vous arrêter quand vous voulez et reprendre avec **On continue**.
 
-Installer dans Claude Code : `/plugin marketplace add PHC-dev-IA/nextpulse-kits`, puis `/plugin install nextpulse-starter@nextpulse-kits`.
+Le Kit est conçu pour claude.ai et l'application Claude (projets, mémoire, connecteurs). Il s'installe aussi dans Claude Code (`/plugin marketplace add PHC-dev-IA/nextpulse-kits`, puis `/plugin install nextpulse-starter@nextpulse-kits`), mais les réglages qu'il vous guide à faire n'y existent pas.
 
 Commandes : `lancer` (démarrer), `continuer` (reprendre), `completer` (compléter la charte, le guide de conception ou la constitution).
 
@@ -50,9 +50,15 @@ Le plugin contient des liens vers le site de NextPulse (www.nextpulse.fr). Le Ki
 
 Politique de confidentialité de NextPulse : https://www.nextpulse.fr/page/politique-de-confidentialite
 
+## Mettre à jour le Kit
+
+Ajouté depuis la marketplace, le Kit se met à jour avec elle. Ajouté par un fichier (marqué « Par vous » dans Claude), il ne se met pas à jour tout seul : **Paramètres > Plug-ins > Actifs > Kit IA Starter (NextPulse) > menu « … »**, supprimez l'ancien, puis ajoutez le nouveau fichier. Vos documents (dont MA BASE) restent dans votre projet : rien n'est perdu.
+
+L'application Claude pour Mac demande macOS 13 ou plus récent. Sur un Mac plus ancien, essayez claude.ai dans un navigateur à jour ; si la page ne s'ouvre pas, utilisez un autre appareil (ordinateur récent, tablette ou téléphone).
+
 ## Sans plugin
 
-Sur Claude gratuit ou sur ChatGPT, la version texte du même Kit est offerte : https://www.nextpulse.fr/starter-offert
+Le plugin demande une offre Claude payante (Pro ou plus). Sans elle (Claude gratuit, ChatGPT…), la version texte du même Kit, à copier ou en PDF, est offerte : https://www.nextpulse.fr/starter-offert
 
 ## Contact et support
 

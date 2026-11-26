@@ -8,7 +8,7 @@ Votre IA sait tout faire, sauf votre métier. Les Kits IA de NextPulse la règle
 
 ## Le Kit IA Starter, offert
 
-Le Kit Starter pose la base de votre IA : vos préférences, l'organisation de vos projets, votre fiche entreprise, votre charte de marque, votre guide de conception et la constitution de votre IA. Claude vous guide en dix étapes courtes, à votre rythme, et vous gardez la main à chaque étape. Vous repartez avec des fiches prêtes à réutiliser dans tous vos projets.
+Le Kit Starter pose la base de votre IA : les instructions de votre projet et votre mémoire, une façon simple de travailler (un seul projet, une conversation par sujet), votre fiche entreprise, votre charte de marque, votre guide de conception et la constitution de votre IA. Claude vous guide en dix étapes courtes, à votre rythme, et vous gardez la main à chaque étape. Vous repartez avec des documents prêts, rangés dans le projet de votre entreprise, que les Kits suivants relisent.
 
 | Plugin | Ce qu'il fait | Prix |
 |---|---|---|
@@ -16,18 +16,18 @@ Le Kit Starter pose la base de votre IA : vos préférences, l'organisation de v
 
 ## L'ajouter à Claude
 
-**Dans l'application Claude (offres payantes)** : ouvrez **Personnaliser > Plugins > Ajouter > Ajouter une marketplace**, puis collez l'adresse de ce dépôt : `https://github.com/PHC-dev-IA/nextpulse-kits`. Ajoutez ensuite le plugin « Kit IA Starter (NextPulse) ».
+**Dans l'application Claude (offres payantes)** : ouvrez **Plug-ins** dans le menu de gauche, puis **Ajouter > Ajouter une marketplace**, et collez l'adresse de ce dépôt : `https://github.com/PHC-dev-IA/nextpulse-kits`. Ajoutez ensuite le plugin « Kit IA Starter (NextPulse) ».
 
-**Dans Claude Code** :
+**Dans Claude Code** (le plugin s'y installe, mais le Kit est conçu pour claude.ai et l'application Claude : les réglages qu'il guide n'existent pas dans Claude Code) :
 
 ```
 /plugin marketplace add PHC-dev-IA/nextpulse-kits
 /plugin install nextpulse-starter@nextpulse-kits
 ```
 
-Ouvrez ensuite une conversation et écrivez : **Lance le Starter**. Pour reprendre plus tard, une phrase suffit : **On continue**.
+Créez ensuite dans Claude un projet au nom de votre entreprise (par exemple « Mon entreprise »), ouvrez-y une nouvelle conversation et écrivez : **Lance le Starter**. Pour reprendre plus tard, une phrase suffit : **On continue**.
 
-**Avec Claude gratuit ou ChatGPT** : le Kit se copie et se colle aussi. Le pas-à-pas est sur [nextpulse.fr/starter-offert](https://www.nextpulse.fr/starter-offert).
+**Sans offre Claude payante (Claude gratuit, ChatGPT…)** : le même Kit se copie et se colle, ou se télécharge en PDF. Le pas-à-pas est sur [nextpulse.fr/starter-offert](https://www.nextpulse.fr/starter-offert).
 
 ## Qui est derrière
 
